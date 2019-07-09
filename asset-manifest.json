@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/nickandshera/static/css/main.de4578dc.chunk.css",
-    "main.js": "/nickandshera/static/js/main.c82937b0.chunk.js",
-    "main.js.map": "/nickandshera/static/js/main.c82937b0.chunk.js.map",
+    "main.css": "/nickandshera/static/css/main.d3c7f95e.chunk.css",
+    "main.js": "/nickandshera/static/js/main.0bcab69a.chunk.js",
+    "main.js.map": "/nickandshera/static/js/main.0bcab69a.chunk.js.map",
     "runtime~main.js": "/nickandshera/static/js/runtime~main.a6dd6430.js",
     "runtime~main.js.map": "/nickandshera/static/js/runtime~main.a6dd6430.js.map",
     "static/js/2.7b26f0e1.chunk.js": "/nickandshera/static/js/2.7b26f0e1.chunk.js",
     "static/js/2.7b26f0e1.chunk.js.map": "/nickandshera/static/js/2.7b26f0e1.chunk.js.map",
     "index.html": "/nickandshera/index.html",
-    "precache-manifest.9eff142b52b5f4acc826cfb8a7ba9670.js": "/nickandshera/precache-manifest.9eff142b52b5f4acc826cfb8a7ba9670.js",
+    "precache-manifest.4ea13c267097e741a64f3fb7bd95f269.js": "/nickandshera/precache-manifest.4ea13c267097e741a64f3fb7bd95f269.js",
     "service-worker.js": "/nickandshera/service-worker.js",
-    "static/css/main.de4578dc.chunk.css.map": "/nickandshera/static/css/main.de4578dc.chunk.css.map"
+    "static/css/main.d3c7f95e.chunk.css.map": "/nickandshera/static/css/main.d3c7f95e.chunk.css.map",
+    "static/media/Home.css": "/nickandshera/static/media/homepageimage.5038314e.jpg"
   }
 }
